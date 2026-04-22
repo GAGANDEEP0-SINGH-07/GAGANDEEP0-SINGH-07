@@ -1,124 +1,101 @@
-<div align="center">
+<h1 align="center">Gagandeep Singh</h1>
 
-<!-- Dynamic typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Gagandeep+Singh+%F0%9F%91%8B;Full-Stack+Developer;Security+%26+Cryptography+Enthusiast;Always+building+something+cool...)](https://git.io/typing-svg)
+<p align="center">
+  <b>Full-Stack Developer &nbsp;•&nbsp; Cybersecurity Enthusiast &nbsp;•&nbsp; AI/ML Explorer</b>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=GAGANDEEP0-SINGH-07&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+secure+%26+scalable+web+apps;Exploring+cryptography+%26+blockchain;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```typescript
-const gagan = {
-  name:       "Gagandeep Singh",
-  location:   "Jalandhar, Punjab 🇮🇳",
-  role:       "CS Student → Aspiring Software Engineer",
-  focus:      ["Full-Stack Dev", "Cryptography", "AI/ML"],
-  currentGoal:"Landing a Software Internship 🚀",
-  funFact:    "I encrypt my messages — and my thoughts too 🔐",
-};
-```
-
-- 🔭 Recently shipped **RSA Secure Chat** — end-to-end encrypted messaging using Web Crypto API (RSA-OAEP + RSA-PSS)
-- 🌱 Currently leveling up in **AI/ML** and **backend system design**
-- 🔐 Exploring **cryptography** and **blockchain** applications
-- 🎮 Gamer by night, developer by day
-- 💬 Ask me about **React**, **Node.js**, **encryption**, or **full-stack architecture**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GAGANDEEP0-SINGH-07&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 👋 About Me
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- 🎓 CS Student based in **Jalandhar, Punjab, India**
+- 💻 Passionate about **full-stack development** and **web security**
+- 🔐 Love working with **cryptography** — RSA, AES, blockchain
+- 🤖 Exploring **AI/ML** to build smarter applications
+- 🎯 Current goal: **Landing a Software Engineering Internship**
+- 🎮 Into gaming, music, and sports when not coding
 
 ---
 
-## 🚀 Featured Projects
+### 🧰 Tech Stack
 
-### 🔐 RSA Secure Chat
-> End-to-end encrypted real-time messaging — because privacy matters.
+**Languages**
 
-- **Stack:** React 19, Node.js/Express, MongoDB, Socket.io, JWT
-- **Crypto:** Web Crypto API · RSA-OAEP encryption · RSA-PSS signatures
-- **Key Design:** All private key operations happen client-side — the server **never** sees your private key
-- 🔗 [View Repo](https://github.com/GAGANDEEP0-SINGH-07)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
----
+**Frontend**
 
-### ⛓️ Blockchain Land Registry System
-> Decentralized land ownership records using smart contracts and cryptographic proofs.
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-- **Tech:** Blockchain, Smart Contracts, SHA-256, ECDSA, AES-256-GCM
-- **Highlight:** Filed formal patent application + IEEE journal paper
-- Tackles fraud and transparency issues in traditional land registries
+**Backend & Database**
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-### ✍️ RSA SecureSign
-> Client-side digital signature verification tool using RSA cryptography.
+**Tools**
 
-- **Stack:** React, Vite, TypeScript, node-forge
-- 🌐 [Live Demo](https://rsa-secure-sign.vercel.app) · 🔗 [GitHub](https://github.com/GAGANDEEP0-SINGH-07/RSA-SecureSign)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GAGANDEEP0-SINGH-07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAGANDEEP0-SINGH-07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GAGANDEEP0-SINGH-07&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🌐 Connect With Me
+### 🚀 Projects
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-GAGANDEEP0--SINGH--07-181717?style=for-the-badge&logo=github)](https://github.com/GAGANDEEP0-SINGH-07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gagandeep-singh)
-
-</div>
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔐 **RSA Secure Chat** | End-to-end encrypted real-time messaging app. Private keys never leave the client. | React 19, Node.js, MongoDB, Socket.io, Web Crypto API |
+| ⛓️ **Blockchain Land Registry** | Decentralized land ownership system with smart contracts. Patent filed + IEEE paper authored. | Blockchain, ECDSA, SHA-256, AES-256-GCM |
+| ✍️ **[RSA SecureSign](https://rsa-secure-sign.vercel.app)** | Client-side digital signature tool using RSA cryptography. | React, TypeScript, Vite, node-forge |
 
 ---
 
-<div align="center">
+### 📊 GitHub Stats
 
-*"The best way to predict the future is to build it."*
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GAGANDEEP0-SINGH-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAGANDEEP0-SINGH-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
 
-⭐ **If you find my work interesting, drop a star!** ⭐
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=GAGANDEEP0-SINGH-07&theme=tokyonight&hide_border=true" />
+</p>
 
-</div>
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/GAGANDEEP0-SINGH-07">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/gagandeep-singh">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://rsa-secure-sign.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Code. Secure. Ship. Repeat."</i>
+</p>
